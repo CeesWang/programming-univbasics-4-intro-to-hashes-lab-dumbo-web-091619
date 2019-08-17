@@ -12,6 +12,7 @@ def pioneer
 end
 
 def id_generator
+  hash = { id: 44}
   # return a hash with a key :id assigned to positive integer
 end
 
